@@ -15,7 +15,6 @@ A experienced Full Stack Flutter developer from Pakistan 🇵🇰<br>
 
 ### 📱 Connect with me
 
-<p align="center">
   <a href="https://www.linkedin.com/in/muhammad-anas-nawaz-9730a8287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -28,8 +27,8 @@ A experienced Full Stack Flutter developer from Pakistan 🇵🇰<br>
 
 ### 💻 Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nestjs,nodejs,mysql,firebase,docker,react,javascript,html,css,figma,xd,postman,github,vscode,linux,express" />
+
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nestjs,nodejs,mysql,firebase,docker,react,javascript,html,css,figma,xd,postman,github,vscode,xcode,linux,express" />
 </p>
 
 ---
