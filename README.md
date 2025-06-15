@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Anas Nawaz </h1>
 
 <p align="center">
 A passionate Full Stack Flutter Developer from Pakistan 🇵🇰<br>
