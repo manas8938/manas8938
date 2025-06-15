@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas Nawaz </h1>
 
 <p align="center">
-A passionate Full Stack Flutter Developer from Pakistan 🇵🇰<br>
-Currently building smart delivery systems with Flutter, NestJS & MySQL
+A experienced Full Stack Flutter developer from Pakistan 🇵🇰<br>
 </p>
 
 ---
 
 - 🌱 I’m currently learning **Flutter advanced animations**
-- 🚀 I'm working on my Final Year Project: **Movr – Smart Delivery System**
 - 💼 All of my projects are showcased on: [My Portfolio](https://manas8938.github.io/portfolio/)
-- 💬 Ask me about: `Flutter`, `NestJS`, `MySQL`, `Docker`, `Firebase`
-- 📫 How to reach me: **manas8938@gmail.com**
+- 💬 Ask me about: `Flutter`,`Dart`, `NestJS`, `MySQL`, `Docker`,`React`
+- 📫 How to reach me: **anakxofficial@gmail.com**
 
 ---
 
