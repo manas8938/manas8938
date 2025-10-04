@@ -7,7 +7,7 @@ A experienced Full Stack Flutter developer from Pakistan 🇵🇰<br>
 ---
 
 - 🌱 I’m currently learning **Flutter advanced animations**
-- 💼 All of my projects are showcased on: [My Portfolio](https://anas-nawaz-portfolio.netlify.app/)
+- 💼 All of my projects are showcased on: [My Portfolio](https://anas-live-portfolio.web.app/)
 - 💬 Ask me about: `Flutter`, `Dart`, `NestJS`, `MySQL`, `Docker`, `React`
 - 📫 How to reach me: **anakxofficial@gmail.com**
 
