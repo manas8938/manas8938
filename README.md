@@ -26,7 +26,8 @@ A experienced Full Stack Developer from Pakistan 🇵🇰<br>
 ---
 ### 💻 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,flutter,dart,nodejs,express,nestjs,postgresql,mysql,firebase,docker,swagger,figma,xd,postman,github,vscode,xcode,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,flutter,dart,nodejs,express,nestjs,postgresql,mysql,firebase,docker,figma,postman,github,vscode,xcode,linux" />
+
 
 ---
 
