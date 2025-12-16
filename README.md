@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas Nawaz</h1>
 
 <p align="center">
-A experienced Full Stack Flutter developer from Pakistan 🇵🇰<br>
+A experienced Full Stack Developer from Pakistan 🇵🇰<br>
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Flutter advanced animations**
+- 🌱 I’m currently learning **AWS**
 - 💼 All of my projects are showcased on: [My Portfolio](https://anas-live-portfolio.web.app/)
 - 💬 Ask me about: `Flutter`, `Dart`, `NestJS`, `MySQL`, `Docker`, `React`
 - 📫 How to reach me: **anakxofficial@gmail.com**
