@@ -8,7 +8,7 @@ A experienced Full Stack Developer from Pakistan 🇵🇰<br>
 
 - 🌱 I’m currently learning **AWS**
 - 💼 All of my projects are showcased on: [My Portfolio](https://anas-portfolio-rho.vercel.app/)
-- 💬 Ask me about: `React.js`,`HTML`,`CSS`,`JavaScript`,`Flutter`, `Dart`, `Node.js`,`Express.js`,`NestJS`, `MySQL`, `Docker`, `React`,`PostgreSQL`,`Swagger`
+- 💬 Ask me about: `React.js`,`HTML`,`CSS`,`JavaScript`,`Flutter`, `Dart`, `Node.js`,`Nest.js`,`NextJS`, `MySQL`, `Docker`, `React`,`PostgreSQL`,`Swagger`
 - 📫 How to reach me: **anakxofficial@gmail.com**
 
 ---
