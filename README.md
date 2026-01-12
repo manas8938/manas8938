@@ -13,26 +13,38 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 🎯 About Me
-
-```typescript
-const muhammadAnas = {
-    location: "Peshawar, Pakistan 🇵🇰",
-    role: "Full Stack Developer",
-    experience: "2+ years",
-    currentFocus: "Multi-Tenant SaaS Architecture",
-    learning: ["AWS Cloud Services", "Microservices", "System Design"],
-    askMeAbout: ["React", "Flutter", "NestJS", "PostgreSQL", "Docker"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    lifePhilosophy: "Code is poetry, architecture is art 🎨"
-};
-```
+## 🎯 whoami
+manas8938@github:~$ cat profile.json
+{
+  "name": "Muhammad Anas Nawaz",
+  "location": "Peshawar, Pakistan 🇵🇰",
+  "roles": ["Full Stack Developer", "SaaS Architect", "Problem Solver"],
+  "experience": "2+ years of turning coffee into code ☕",
+  "currentlyWorkingOn": {
+    "project": "Enterprise Multi-Tenant SaaS Backend",
+    "stack": ["NestJS", "PostgreSQL", "Redis", "Docker"]
+  },
+  "learning": ["AWS Cloud", "Microservices", "System Design", "DevOps"],
+  "expertiseIn": {
+    "frontend": ["React", "Flutter", "Next.js", "TypeScript"],
+    "backend": ["NestJS", "Node.js", "RESTful APIs", "JWT"],
+    "database": ["PostgreSQL", "MySQL", "Redis"],
+    "devops": ["Docker", "CI/CD", "Git"]
+  },
+  "workingStyle": {
+    "architecture": "Clean & Scalable",
+    "code_quality": "Production-Ready",
+    "testing": "console.log() driven development 😄",
+    "collaboration": "Open Source Enthusiast"
+  },
+  "lifePhilosophy": "Building solutions that matter, one commit at a time 🚀"
+}
+manas8938@github:~$ █
 
 <!-- Wave Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-437e-8c1d-e1d80efb3f78.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
-
 <div align="center">
 
 ### 💻 Frontend Sorcery
@@ -69,7 +81,6 @@ const muhammadAnas = {
 </div>
 
 ## 🏆 Superpowers & Achievements
-
 <table align="center">
 <tr>
 <td width="50%" valign="top">
@@ -105,11 +116,9 @@ const muhammadAnas = {
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-437e-8c1d-e1d80efb3f78.gif" width="100%">
 
 ## 💼 Professional Journey
-
 <details open>
 <summary><b>🚀 Backend Developer - Multi-Tenant SaaS</b> (Jan 2026 - Present)</summary>
 <br>
-
 ```yaml
 Technologies: NestJS, PostgreSQL, Prisma, JWT, Redis, BullMQ, Docker
 Achievements:
@@ -123,7 +132,6 @@ Achievements:
 <details>
 <summary><b>💻 Full Stack Developer - Kim Long Restaurants</b> (2026)</summary>
 <br>
-
 ```yaml
 Technologies: React, Vite, Tailwind CSS, Google Maps API
 Achievements:
@@ -136,7 +144,6 @@ Achievements:
 <details>
 <summary><b>🛒 Full Stack Developer - Calvio Mart E-Commerce</b> (Dec 2025)</summary>
 <br>
-
 ```yaml
 Technologies: React, NestJS, PostgreSQL, Docker, Swagger
 Achievements:
@@ -150,7 +157,6 @@ Achievements:
 <details>
 <summary><b>📱 Full Stack Developer - CECOS University</b> (Mar 2024 - Mar 2025)</summary>
 <br>
-
 ```yaml
 Technologies: Flutter, NestJS, MySQL, TypeORM, Docker
 Achievements:
@@ -164,15 +170,14 @@ Achievements:
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-437e-8c1d-e1d80efb3f78.gif" width="100%">
 
 ## 📜 Certifications & Achievements
-
 <div align="center">
 
-| Certificate | Issuer | Year |
-|------------|--------|------|
-| 🎓 SQL & Relational Databases 101 | IBM | 2025 |
-| ☁️ AWS Academy Cloud Foundations | AWS | 2024 |
-| 📱 Mobile App Development - Flutter | Alison | 2024 |
-| 📊 MySQL & Statistics for Data Analysis | Alison | 2024 |
+| Certificate                              | Issuer   | Year |
+|------------------------------------------|----------|------|
+| 🎓 SQL & Relational Databases 101        | IBM      | 2025 |
+| ☁️ AWS Academy Cloud Foundations         | AWS      | 2024 |
+| 📱 Mobile App Development - Flutter      | Alison   | 2024 |
+| 📊 MySQL & Statistics for Data Analysis  | Alison   | 2024 |
 
 </div>
 
@@ -180,7 +185,6 @@ Achievements:
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-437e-8c1d-e1d80efb3f78.gif" width="100%">
 
 ## 📊 GitHub Analytics
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manas8938&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas8938&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
@@ -199,15 +203,12 @@ Achievements:
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-437e-8c1d-e1d80efb3f78.gif" width="100%">
 
 ## 🤝 Let's Connect & Collaborate
-
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-anas-nawaz-9730a8287/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anas-portfolio-rho.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manas8938)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anakxofficial@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ana7x_/)
-
 </div>
 
 <!-- Profile Views Counter -->
@@ -228,3 +229,6 @@ Achievements:
   <h3>💡 "Code is like humor. When you have to explain it, it's bad!" 💡</h3>
   <p><i>⭐ From <a href="https://github.com/manas8938">manas8938</a> with ❤️</i></p>
 </div>
+```
+
+This is the complete updated README with the new `whoami` section (bash + JSON style) replacing the old TypeScript object, while keeping everything else consistent and visually appealing. You can copy-paste this directly into your GitHub README.md file. Enjoy the new look! 🚀
