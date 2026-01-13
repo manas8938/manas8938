@@ -1,94 +1,127 @@
-<h1 align="center">Hi 👋, I'm Muhammad Anas Nawaz</h1>
-<h3 align="center">Experienced Full Stack Developer from Pakistan 🇵🇰</h3>
+<div align="center">
+  <h1>Muhammad Anas Nawaz</h1>
+  <h3>Full Stack Developer | Software Engineer</h3>
+  <p>
+    <em>Building enterprise-grade applications with modern architecture and scalable solutions</em>
+  </p>
+</div>
 
-<p align="center">
-  Specializing in building scalable web and mobile applications with modern technologies.<br>
-  Expert in React.js, Flutter, NestJS, and cloud-native solutions.
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently working on **Kim Long Restaurants** and **Multi-Tenant SaaS architectures**  
-- 🌱 Expanding my expertise in **AWS Cloud Services** and **Microservices Architecture**
-- 💼 Portfolio: [anas-portfolio-rho.vercel.app](https://anas-portfolio-rho.vercel.app/)
-- 💬 Ask me about: **React.js**, **Flutter**, **NestJS**, **PostgreSQL**, **Docker**, **Clean Architecture**, **Multi-Tenant SaaS**
-- 📫 Reach me at: **anakxofficial@gmail.com**
-- 🎓 Bachelor's in Software Engineering from CECOS University
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anas-portfolio-rho.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-anas-nawaz-9730a8287/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anakxofficial@gmail.com)
+  
+</div>
 
 ---
 
-### 🛠️ Technical Expertise
+## 🎯 Professional Summary
 
-**Frontend Development**
--React.js, Flutter, Dart, HTML5, CSS3, JavaScript, Tailwind CSS, Next.js
+Full Stack Developer specializing in scalable web and mobile applications. Proven expertise in designing and implementing multi-tenant SaaS architectures, RESTful APIs, and enterprise-grade backend systems. Passionate about clean code, system design, and delivering high-performance solutions.
 
-**Backend Development**
-- NestJS, Node.js, TypeScript, RESTful APIs, JWT, NextAuth.js, Prisma, TypeORM, Swagger, Nodemailer
-
-**Database & DevOps**
-- PostgreSQL, MySQL, Redis, BullMQ, Docker, Git, GitHub, CI/CD
-
-**Architecture & Concepts**
-- Multi-Tenant SaaS, Clean Architecture, RBAC, Microservices, Background Jobs
+**Core Competencies:** React.js • Flutter • NestJS • PostgreSQL • Docker • Clean Architecture • Multi-Tenant Systems
 
 ---
 
-### 💻 Languages and Tools
+## 💼 Technical Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,javascript,typescript,html,css,tailwind" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgresql,mysql,redis,firebase,prisma" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,vscode,xcode,linux,aws" />
-</p>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
----
+### Backend Development
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-### 🚀 Recent Projects
+### Database & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- **Multi-Tenant SaaS Platform** - Enterprise-grade backend with NestJS, PostgreSQL, and Redis
-- **E-Commerce Platform (Calvio Mart)** - Full-stack solution with 50+ REST APIs and admin panel
-- **Kim Long Restaurant Website** - Responsive SPA with modern UI/UX
-
----
-
-### 📱 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-anas-nawaz-9730a8287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_ana7x_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:anakxofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### Architecture & Practices
+- Multi-Tenant SaaS Architecture
+- RESTful API Design & Development
+- Role-Based Access Control (RBAC)
+- Clean Architecture Principles
+- Microservices Architecture
+- Background Job Processing (BullMQ)
+- CI/CD Pipeline Implementation
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manas8938&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+### Multi-Tenant SaaS Platform
+**Tech Stack:** NestJS • PostgreSQL • Prisma • Redis • BullMQ • Docker  
+Enterprise-grade backend system with tenant-based data isolation, subscription management, and automated background workers for audit logging and notifications.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas8938&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### E-Commerce Platform (Calvio Mart)
+**Tech Stack:** React.js • NestJS • PostgreSQL • Docker • Swagger  
+Full-featured e-commerce solution with 50+ REST APIs, secure admin panel with RBAC, OTP verification, and WhatsApp integration.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas8938&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### Cross-Platform Mobile Application
+**Tech Stack:** Flutter • NestJS • MySQL • Firebase  
+Production-ready mobile app with clean architecture, Provider state management, real-time tracking, and comprehensive API integration.
 
 ---
 
-<p align="center">
-  <i>⚡ "Building scalable solutions with clean code and modern architecture"</i>
-</p>
+## 📚 Continuous Learning
+
+Currently expanding expertise in:
+- ☁️ AWS Cloud Services & Serverless Architecture
+- 🏗️ Advanced Microservices Patterns
+- 🔒 Security Best Practices & OAuth 2.0
+- 📊 System Design & Scalability
+
+---
+
+## 🎓 Education & Certifications
+
+**Bachelor of Science in Software Engineering**  
+CECOS University of Information Technology and Emerging Sciences
+
+**Professional Certifications:**
+- SQL and Relational Databases 101 - IBM
+- AWS Academy Cloud Foundations - AWS
+- Mobile App Development with Flutter - Alison
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manas8938&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas8938&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas8938&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📫 Professional Contact
+
+**Location:** Peshawar, Pakistan  
+**Email:** anakxofficial@gmail.com  
+**Portfolio:** [anas-portfolio-rho.vercel.app](https://anas-portfolio-rho.vercel.app/)  
+**LinkedIn:** [Muhammad Anas Nawaz](https://www.linkedin.com/in/muhammad-anas-nawaz-9730a8287/)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=manas8938&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <sub>💡 Open to collaboration on innovative projects and enterprise solutions</sub>
+</div>
