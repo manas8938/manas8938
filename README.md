@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Multi-Tenant SaaS architectures** and **Enterprise-grade backend systems**
+- 🔭 Currently working on **Kim Long Restaurants** and **Multi-Tenant SaaS architectures**  
 - 🌱 Expanding my expertise in **AWS Cloud Services** and **Microservices Architecture**
 - 💼 Portfolio: [anas-portfolio-rho.vercel.app](https://anas-portfolio-rho.vercel.app/)
 - 💬 Ask me about: **React.js**, **Flutter**, **NestJS**, **PostgreSQL**, **Docker**, **Clean Architecture**, **Multi-Tenant SaaS**
