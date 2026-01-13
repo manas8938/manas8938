@@ -1,4 +1,3 @@
-according to my resume. please make it more professional :
 <h1 align="center">Hi 👋, I'm Muhammad Anas Nawaz</h1>
 <p align="center">
 A experienced Full Stack Developer from Pakistan 🇵🇰<br>
