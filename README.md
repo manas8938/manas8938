@@ -128,14 +128,17 @@ CECOS University of Information Technology and Emerging Sciences, Peshawar, Paki
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manas8938&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas8938&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manas8938&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas8938&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas8938&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas8938&theme=tokyonight" alt="GitHub Streak" />
+</p>
 ---
 
 ## 📫 Get In Touch
