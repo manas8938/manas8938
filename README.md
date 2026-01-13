@@ -22,13 +22,13 @@
 ### 🛠️ Technical Expertise
 
 **Frontend Development**
-- React.js, Next.js, Flutter, TypeScript, Tailwind CSS, Vite
+-React.js, Flutter, Dart, HTML5, CSS3, JavaScript, Tailwind CSS, Next.js
 
 **Backend Development**
-- NestJS, Node.js, RESTful APIs, JWT Authentication, Prisma, TypeORM
+- NestJS, Node.js, TypeScript, RESTful APIs, JWT, NextAuth.js, Prisma, TypeORM, Swagger, Nodemailer
 
 **Database & DevOps**
-- PostgreSQL, MySQL, Redis, BullMQ, Firebase, Docker, CI/CD
+- PostgreSQL, MySQL, Redis, BullMQ, Docker, Git, GitHub, CI/CD
 
 **Architecture & Concepts**
 - Multi-Tenant SaaS, Clean Architecture, RBAC, Microservices, Background Jobs
