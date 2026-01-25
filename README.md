@@ -74,15 +74,7 @@ Experienced Full Stack Developer with hands-on expertise in building scalable, s
 - Comprehensive role-based access control (Owner/Admin/Member)
 - Dockerized microservices with complete Swagger API documentation
 
-### Kim Long Restaurant Website
-**Tech Stack:** React • NestJS • TypeORM • PostgreSQL • Vite • Tailwind CSS  
-**Key Features:**
-- Full-stack restaurant management system with backend APIs and authentication
-- Responsive frontend with dynamic menu browsing and Google Maps integration
-- Role-based access control for restaurant staff
-- Contact form system with email integration
-
-### E-Commerce Platform (Calvio Mart)
+### Calvio Mart Website
 **Tech Stack:** React.js • NestJS • PostgreSQL • Docker • Swagger  
 **Key Features:**
 - Comprehensive e-commerce solution with 50+ RESTful API endpoints
@@ -91,7 +83,7 @@ Experienced Full Stack Developer with hands-on expertise in building scalable, s
 - OTP email verification and WhatsApp order confirmation integration
 - Image upload functionality with comprehensive input validation
 
-### Cross-Platform Mobile Application
+### Movr App
 **Tech Stack:** Flutter • NestJS • MySQL • TypeORM • Docker • Firebase  
 **Key Features:**
 - Clean architecture implementation with Provider state management
@@ -99,6 +91,13 @@ Experienced Full Stack Developer with hands-on expertise in building scalable, s
 - Secure RESTful APIs with JWT authentication and validation middleware
 - Real-time location tracking and Swagger documentation
 
+### Kim Long Restaurant Website
+**Tech Stack:** React • Vite • Tailwind CSS  
+**Key Features:**
+- Full-stack restaurant management system with backend APIs and authentication
+- Responsive frontend with dynamic menu browsing and Google Maps integration
+- Role-based access control for restaurant staff
+- Contact form system with email integration
 ---
 
 ## 📚 Professional Development
