@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Anas%20Nawaz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=52&descSize=18"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+%26+Mobile+Applications;Multi-Tenant+SaaS+Architecture+Expert;1000%2B+Daily+Users+%7C+90%2B+API+Endpoints;Clean+Code+%7C+Best+Practices+%7C+Performance" alt="Typing SVG" />
-  </a>
+  <h1>Muhammad Anas Nawaz</h1>
+  <h3>Full Stack Developer | Software Engineer</h3>
+  <p>
+    <em>Building scalable, secure, and user-friendly web and mobile applications</em>
+  </p>
 </div>
 
 <div align="center">
@@ -23,11 +21,7 @@
   </a>
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
 
 ## 👨‍💻 About Me
 
@@ -62,9 +56,7 @@ const anas: Developer = {
 };
 ```
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
 
 ## 🛠️ Tech Stack
 
@@ -112,9 +104,7 @@ const anas: Developer = {
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
 
 ## 🚀 Featured Projects
 
@@ -172,9 +162,7 @@ const anas: Developer = {
 | 📧 Contact form with email integration | Google Maps API |
 | ⚡ Built with Vite for optimal performance | Email Integration |
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
 
 ## 📊 GitHub Analytics
 
@@ -191,26 +179,34 @@ const anas: Developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manas8938&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 <div align="center">
 
-| 🎓 Education | 📜 Certifications |
-|:-------------|:------------------|
-| **BS Software Engineering** | **SQL & Relational Databases 101** - IBM (Jun 2025) |
-| CECOS University, Peshawar | **AWS Academy Cloud Foundations** - AWS (Feb 2024) |
-| Oct 2021 - Oct 2025 | **Mobile App Development with Flutter** - Alison (Mar 2024) |
-| | **MySQL & Statistics for Data Analysis** - Alison (Apr 2024) |
+| Degree | University | Location |
+|:-------|:-----------|:---------|
+| **BS Software Engineering** | CECOS University of IT & Emerging Sciences | Peshawar, Pakistan |
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Provider | Date |
+|:--------------|:---------|:-----|
+| **SQL & Relational Databases 101** | IBM | Jun 2025 |
+| **AWS Academy Cloud Foundations** | AWS | Feb 2024 |
+| **Mobile App Development with Flutter** | Alison | Mar 2024 |
+| **MySQL & Statistics for Data Analysis** | Alison | Apr 2024 |
+
+</div>
+
+---
 
 ## 📚 Currently Learning
 
@@ -225,9 +221,7 @@ const anas: Developer = {
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
 
 ## 📫 Let's Connect
 
@@ -251,9 +245,7 @@ const anas: Developer = {
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=manas8938&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -267,6 +259,4 @@ const anas: Developer = {
   <br/><br/>
   <img src="https://img.shields.io/badge/Thanks_for_visiting!-6366F1?style=flat-square" alt="Thanks"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 ```
