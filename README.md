@@ -25,9 +25,11 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## 👨‍💻 About Me
 
 ```typescript
 const anas: Developer = {
@@ -60,9 +62,11 @@ const anas: Developer = {
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3z0000000&rid=giphy.gif" width="30"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -94,8 +98,9 @@ const anas: Developer = {
 </div>
 
 ### 🏗️ Architecture & Practices
+
 <div align="center">
-  
+
 | Category | Technologies |
 |:--------:|:-------------|
 | 🏢 **Architecture** | Multi-Tenant SaaS • Microservices • Clean Architecture |
@@ -107,143 +112,71 @@ const anas: Developer = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manas8938&repo=multi-tenant-saas&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manas8938&repo=calvio-mart&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
+## 🚀 Featured Projects
 
 ### 🏆 Multi-Tenant SaaS Platform
-<table>
-<tr>
-<td width="60%">
 
-**Enterprise-grade multi-tenant backend architecture**
+> **Enterprise-grade multi-tenant backend architecture**
 
-- 🔒 Complete data isolation with tenant-specific schemas
-- 💳 Three-tier subscription system (Free/Pro/Enterprise)
-- 📊 Redis-backed BullMQ for audit logging & notifications
-- 👥 Comprehensive RBAC (Owner/Admin/Member)
-- 📝 40+ Swagger documented API endpoints
+| Features | Tech Stack |
+|:---------|:-----------|
+| 🔒 Complete data isolation with tenant-specific schemas | NestJS |
+| 💳 Three-tier subscription system (Free/Pro/Enterprise) | PostgreSQL + Prisma |
+| 📊 Redis-backed BullMQ for audit logging & notifications | Redis + BullMQ |
+| 👥 Comprehensive RBAC (Owner/Admin/Member) | Docker |
+| 📝 40+ Swagger documented API endpoints | JWT + Swagger |
 
-</td>
-<td width="40%">
-
-```
-Tech Stack:
-├── NestJS
-├── PostgreSQL + Prisma
-├── Redis + BullMQ
-├── Docker
-├── JWT + RBAC
-└── Swagger
-```
-
-</td>
-</tr>
-</table>
+---
 
 ### 🛒 Calvio Mart - E-Commerce Platform
-<table>
-<tr>
-<td width="60%">
 
-**Full-featured e-commerce solution serving 1,000+ daily users**
+> **Full-featured e-commerce solution serving 1,000+ daily users**
 
-- 🛍️ 50+ RESTful API endpoints with Swagger docs
-- 🔐 Secure admin panel with RBAC & JWT authentication
-- 🎨 30+ reusable React components with Tailwind CSS
-- 📧 OTP verification & WhatsApp order confirmations
-- 💳 Payment gateway integration
+| Features | Tech Stack |
+|:---------|:-----------|
+| 🛍️ 50+ RESTful API endpoints with Swagger docs | React.js |
+| 🔐 Secure admin panel with RBAC & JWT authentication | NestJS |
+| 🎨 30+ reusable React components with Tailwind CSS | PostgreSQL + TypeORM |
+| 📧 OTP verification & WhatsApp order confirmations | Docker |
+| 💳 Payment gateway integration | Tailwind CSS + Swagger |
 
-</td>
-<td width="40%">
-
-```
-Tech Stack:
-├── React.js
-├── NestJS
-├── PostgreSQL + TypeORM
-├── Docker
-├── Tailwind CSS
-└── Swagger
-```
-
-</td>
-</tr>
-</table>
+---
 
 ### 🚗 Movr App - Cross-Platform Mobile App
-<table>
-<tr>
-<td width="60%">
 
-**Clean architecture mobile application**
+> **Clean architecture mobile application**
 
-- 📱 Cross-platform Flutter app with Provider
-- 🗄️ Normalized MySQL database with optimized queries
-- 🔐 Secure RESTful APIs with JWT validation
-- 📍 Real-time location tracking
-- 📚 Complete Swagger documentation
+| Features | Tech Stack |
+|:---------|:-----------|
+| 📱 Cross-platform Flutter app with Provider | Flutter + Provider |
+| 🗄️ Normalized MySQL database with optimized queries | NestJS |
+| 🔐 Secure RESTful APIs with JWT validation | MySQL + TypeORM |
+| 📍 Real-time location tracking | Docker + Firebase |
+| 📚 Complete Swagger documentation | JWT + Swagger |
 
-</td>
-<td width="40%">
-
-```
-Tech Stack:
-├── Flutter + Provider
-├── NestJS
-├── MySQL + TypeORM
-├── Docker
-├── Firebase
-└── JWT
-```
-
-</td>
-</tr>
-</table>
+---
 
 ### 🍜 Kim Long Restaurant Website
-<table>
-<tr>
-<td width="60%">
 
-**Full-stack restaurant management system**
+> **Full-stack restaurant management system**
 
-- 🍽️ Dynamic menu browsing with responsive design
-- 🗺️ Google Maps integration for location
-- 👥 Role-based access control for staff
-- 📧 Contact form with email integration
-- ⚡ Built with Vite for optimal performance
+| Features | Tech Stack |
+|:---------|:-----------|
+| 🍽️ Dynamic menu browsing with responsive design | React + Vite |
+| 🗺️ Google Maps integration for location | Tailwind CSS |
+| 👥 Role-based access control for staff | Node.js Backend |
+| 📧 Contact form with email integration | Google Maps API |
+| ⚡ Built with Vite for optimal performance | Email Integration |
 
-</td>
-<td width="40%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-```
-Tech Stack:
-├── React + Vite
-├── Tailwind CSS
-├── Node.js Backend
-├── Email Integration
-└── Google Maps API
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manas8938&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
@@ -258,7 +191,9 @@ Tech Stack:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manas8938&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🎓 Education & Certifications
 
@@ -273,36 +208,26 @@ Tech Stack:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 📚 Currently Learning
 
 <div align="center">
-  
-```mermaid
-mindmap
-  root((2025 Goals))
-    AWS Cloud
-      Serverless Architecture
-      Lambda Functions
-      S3 & CloudFront
-    System Design
-      Scalability Patterns
-      Load Balancing
-      Caching Strategies
-    Security
-      Advanced Auth
-      Encryption
-      OWASP Practices
-    Performance
-      Query Optimization
-      CDN Integration
-      Code Profiling
-```
+
+| 🎯 Focus Area | 📖 Topics |
+|:-------------:|:----------|
+| ☁️ **AWS Cloud** | Serverless Architecture, Lambda Functions, S3 & CloudFront |
+| 🏗️ **System Design** | Scalability Patterns, Load Balancing, Caching Strategies |
+| 🔐 **Security** | Advanced Authentication, Encryption, OWASP Practices |
+| ⚡ **Performance** | Query Optimization, CDN Integration, Code Profiling |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 📫 Let's Connect
 
@@ -326,7 +251,9 @@ mindmap
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=manas8938&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -342,3 +269,4 @@ mindmap
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+```
