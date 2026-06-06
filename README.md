@@ -2,7 +2,7 @@
   <h1>Muhammad Anas Nawaz</h1>
   <h3>Full Stack Developer | Software Engineer</h3>
   <p>
-    <em>Building scalable, secure, and user-friendly web and mobile applications</em>
+    <em>Building scalable, secure, and production-ready web and mobile applications</em>
   </p>
 </div>
 
@@ -30,28 +30,28 @@ const anas: Developer = {
     name: "Muhammad Anas Nawaz",
     role: "Full Stack Developer | Software Engineer",
     location: "Peshawar, Pakistan 🇵🇰",
-    
+
     expertise: [
         "Multi-Tenant SaaS Architecture",
         "RESTful API Design",
-        "Microservices",
-        "Clean Architecture"
+        "Cross-Platform Mobile Development",
+        "Cloud Infrastructure & DevOps"
     ],
-    
+
     currentFocus: [
-        "AWS Cloud Services",
-        "Serverless Architecture",
-        "System Design Patterns",
+        "Oracle Cloud Infrastructure (OCI)",
+        "Fintech & Payment Systems",
+        "System Design & Scalability",
         "Performance Optimization"
     ],
-    
+
     achievements: {
-        dailyUsers: "1,000+",
-        apiEndpoints: "90+",
-        responseTimeImprovement: "45%",
-        deploymentTimeReduction: "2hrs → 15min"
+        production_platform: "Saudi fintech platform — live in Jeddah",
+        load_test: "p95 < 13ms at 200 concurrent users",
+        api_endpoints: "100+",
+        uptime: "6+ days zero crashes on production"
     },
-    
+
     funFact: "I turn caffeine into production-ready code ☕→💻"
 };
 ```
@@ -68,24 +68,23 @@ const anas: Developer = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend Development
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🗄️ Database & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
@@ -96,11 +95,11 @@ const anas: Developer = {
 | Category | Technologies |
 |:--------:|:-------------|
 | 🏢 **Architecture** | Multi-Tenant SaaS • Microservices • Clean Architecture |
-| 🔐 **Security** | JWT Authentication • OAuth2 • RBAC • Bcrypt |
-| 📡 **APIs** | RESTful Design • Swagger Documentation • Validation |
-| ⚡ **Performance** | Redis Caching • BullMQ Queues • Background Jobs |
-| 🔄 **DevOps** | Docker • CI/CD Pipelines • Git Workflows |
-| 📱 **State Management** | Context API • Provider Pattern |
+| 🔐 **Security** | JWT • Firebase OTP • RBAC • Bcrypt • Anti-spoofing |
+| 📡 **APIs** | RESTful Design • Swagger • Rate Limiting • Webhooks |
+| ⚡ **Performance** | Redis Lua Atomic Scripts • PM2 Cluster • p95 < 13ms |
+| ☁️ **Cloud** | Oracle Cloud (OCI) • Cloudflare Pages • Cloudinary |
+| 📱 **Mobile** | Flutter • Firebase OTP • RTL Arabic • GPS Geofencing |
 
 </div>
 
@@ -108,35 +107,40 @@ const anas: Developer = {
 
 ## 🚀 Featured Projects
 
-### 🏆 Multi-Tenant SaaS Platform
+### 🏆 MIKNAZ — Saudi Fintech Voucher Race Platform
 
-> **Enterprise-grade multi-tenant backend architecture**
+> **Production-live geofenced voucher platform for the Saudi Arabian market**
 
-| Features | Tech Stack |
-|:---------|:-----------|
-| 🔒 Complete data isolation with tenant-specific schemas | NestJS |
-| 💳 Three-tier subscription system (Free/Pro/Enterprise) | PostgreSQL + Prisma |
-| 📊 Redis-backed BullMQ for audit logging & notifications | Redis + BullMQ |
-| 👥 Comprehensive RBAC (Owner/Admin/Member) | Docker |
-| 📝 40+ Swagger documented API endpoints | JWT + Swagger |
+| Feature | Details |
+|:--------|:--------|
+| 🗺️ **Geofenced voucher racing** | Users race to claim vouchers within GPS radius — first click wins |
+| ⚡ **Redis atomic locking** | Zero double-claims using Lua scripts + SELECT FOR UPDATE pessimistic locking |
+| 📱 **Flutter mobile app** | iOS + Android, Firebase OTP auth, full RTL Arabic/English support |
+| 🏪 **Vendor dashboard** | React/Vite — onboarding, voucher creation, branch management, analytics |
+| 🔐 **ZATCA compliance** | Saudi tax authority Phase 1 simplified e-invoicing |
+| ☁️ **OCI Jeddah** | E5.Flex VM, PM2 cluster mode, Nginx SSL, Cloudflare CDN |
+| 📊 **Load tested** | p95 = 12.77ms at 200 concurrent users — zero server crashes |
+| 👥 **RBAC** | END_USER / VENDOR_OWNER / VENDOR_STAFF / ADMIN roles |
+
+**Stack:** `Flutter` `NestJS` `PostgreSQL` `Redis` `React` `TypeScript` `Oracle Cloud` `Cloudflare` `Firebase`
 
 ---
 
-### 🛒 Calvio Mart - E-Commerce Platform
+### 🛒 Calvio Mart — E-Commerce Platform
 
 > **Full-featured e-commerce solution serving 1,000+ daily users**
 
 | Features | Tech Stack |
 |:---------|:-----------|
 | 🛍️ 50+ RESTful API endpoints with Swagger docs | React.js |
-| 🔐 Secure admin panel with RBAC & JWT authentication | NestJS |
-| 🎨 30+ reusable React components with Tailwind CSS | PostgreSQL + TypeORM |
+| 🔐 Secure admin panel with RBAC & JWT auth | NestJS |
+| 🎨 30+ reusable React components with Tailwind | PostgreSQL + TypeORM |
 | 📧 OTP verification & WhatsApp order confirmations | Docker |
 | 💳 Payment gateway integration | Tailwind CSS + Swagger |
 
 ---
 
-### 🚗 Movr App - Cross-Platform Mobile App
+### 🚗 Movr App — Cross-Platform Mobile App
 
 > **Clean architecture mobile application**
 
@@ -214,10 +218,10 @@ const anas: Developer = {
 
 | 🎯 Focus Area | 📖 Topics |
 |:-------------:|:----------|
-| ☁️ **AWS Cloud** | Serverless Architecture, Lambda Functions, S3 & CloudFront |
+| ☁️ **Cloud Infrastructure** | Oracle Cloud, Cloudflare Workers, CDN Optimization |
 | 🏗️ **System Design** | Scalability Patterns, Load Balancing, Caching Strategies |
-| 🔐 **Security** | Advanced Authentication, Encryption, OWASP Practices |
-| ⚡ **Performance** | Query Optimization, CDN Integration, Code Profiling |
+| 💳 **Fintech** | Payment Systems, ZATCA Compliance, KYC Flows |
+| ⚡ **Performance** | Redis Lua Scripts, Query Optimization, Load Testing |
 
 </div>
 
@@ -259,4 +263,3 @@ const anas: Developer = {
   <br/><br/>
   <img src="https://img.shields.io/badge/Thanks_for_visiting!-6366F1?style=flat-square" alt="Thanks"/>
 </div>
-```
