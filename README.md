@@ -126,6 +126,24 @@ const anas: Developer = {
 
 ---
 
+### 🏗️ Multi-Tenant SaaS Platform
+
+> **Enterprise-grade multi-tenant backend architecture**
+
+| Feature | Details |
+|:--------|:--------|
+| 🔒 **Complete data isolation** | Tenant-specific schemas — zero data leakage between tenants |
+| 💳 **Three-tier subscription** | Free / Pro / Enterprise with feature gating per tier |
+| 📊 **Redis-backed BullMQ** | Async audit logging, notifications, and background job processing |
+| 👥 **Comprehensive RBAC** | Owner / Admin / Member roles with granular permissions |
+| 📝 **40+ documented endpoints** | Full Swagger documentation with request/response examples |
+| 🔐 **Secure auth** | JWT access tokens + refresh token rotation |
+| 🐳 **Dockerized** | Full Docker Compose setup for local and production environments |
+
+**Stack:** `NestJS` `PostgreSQL` `Prisma` `Redis` `BullMQ` `Docker` `JWT` `Swagger`
+
+---
+
 ### 🛒 Calvio Mart — E-Commerce Platform
 
 > **Full-featured e-commerce solution serving 1,000+ daily users**
