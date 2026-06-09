@@ -129,7 +129,7 @@ const anas: Developer = {
 
 **Stack:** `Flutter` `NestJS` `PostgreSQL` `Redis` `React` `TypeScript` `Oracle Cloud` `Cloudflare` `Firebase` `Resend` `Cloudinary` `k6`
 
-**Scope:** $3,200 USD — 5 milestones — Saudi Arabia market — production live in Jeddah
+**Scope:**  — 5 milestones — Saudi Arabia market — production live in Jeddah
 
 ---
 
