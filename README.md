@@ -129,8 +129,6 @@ const anas: Developer = {
 
 **Stack:** `Flutter` `NestJS` `PostgreSQL` `Redis` `React` `TypeScript` `Oracle Cloud` `Cloudflare` `Firebase` `Resend` `Cloudinary` `k6`
 
-**Scope:** 5 milestones | Saudi Arabia market | production live in Jeddah
-
 ---
 
 ### 🏗️ #2 — Multi-Tenant SaaS Platform
@@ -155,13 +153,15 @@ const anas: Developer = {
 
 > **Full-featured e-commerce solution serving 1,000+ daily users**
 
-| Features | Tech Stack |
-|:---------|:-----------|
-| 🛍️ 50+ RESTful API endpoints with Swagger docs | React.js |
-| 🔐 Secure admin panel with RBAC & JWT auth | NestJS |
-| 🎨 30+ reusable React components with Tailwind | PostgreSQL + TypeORM |
-| 📧 OTP verification & WhatsApp order confirmations | Docker |
-| 💳 Payment gateway integration | Tailwind CSS + Swagger |
+| Feature | Details |
+|:--------|:--------|
+| 🛍️ **50+ REST endpoints** | Full Swagger documentation with request/response examples |
+| 🔐 **Secure admin panel** | RBAC & JWT auth with role-based access control |
+| 🎨 **30+ React components** | Reusable component library built with Tailwind CSS |
+| 📧 **OTP verification** | WhatsApp order confirmations and OTP-based login |
+| 💳 **Payment integration** | Payment gateway with order management flow |
+
+**Stack:** `React.js` `NestJS` `PostgreSQL` `TypeORM` `Docker` `Tailwind CSS` `Swagger` `JWT`
 
 ---
 
@@ -169,27 +169,47 @@ const anas: Developer = {
 
 > **Clean architecture mobile application with real-time location tracking**
 
-| Features | Tech Stack |
-|:---------|:-----------|
-| 📱 Cross-platform Flutter app with Provider state management | Flutter + Provider |
-| 🗄️ Normalized MySQL database with optimized queries | NestJS |
-| 🔐 Secure RESTful APIs with JWT validation | MySQL + TypeORM |
-| 📍 Real-time location tracking and destination-based flow | Docker + Firebase |
-| 📚 Complete Swagger documentation | JWT + Swagger |
+| Feature | Details |
+|:--------|:--------|
+| 📱 **Cross-platform** | Flutter app with Provider state management for iOS and Android |
+| 📍 **Location-based flow** | Real-time destination selection with city-based routing |
+| 🔐 **Secure APIs** | JWT-validated RESTful APIs with full Swagger documentation |
+| 🗄️ **Optimized database** | Normalized MySQL schema with efficient relational queries |
+| 🐳 **Dockerized backend** | Full containerized setup with Firebase integration |
+
+**Stack:** `Flutter` `Provider` `NestJS` `MySQL` `TypeORM` `Docker` `Firebase` `JWT` `Swagger`
 
 ---
 
 ### 🍜 #5 — Kim Long Restaurant Website
 
-> **Full-stack restaurant management system**
+> **Full-stack restaurant management system with Google Maps integration**
 
-| Features | Tech Stack |
-|:---------|:-----------|
-| 🍽️ Dynamic menu browsing with responsive design | React + Vite |
-| 🗺️ Google Maps integration for location | Tailwind CSS |
-| 👥 Role-based access control for staff | Node.js Backend |
-| 📧 Contact form with email integration | Google Maps API |
-| ⚡ Built with Vite for optimal performance | Email Integration |
+| Feature | Details |
+|:--------|:--------|
+| 🍽️ **Dynamic menu** | Responsive menu browsing with category filtering |
+| 🗺️ **Google Maps** | Embedded map with restaurant location and directions |
+| 👥 **Staff RBAC** | Role-based access control for restaurant staff management |
+| 📧 **Contact form** | Email integration for customer inquiries and reservations |
+| ⚡ **Vite powered** | Optimized build with fast HMR for development |
+
+**Stack:** `React` `Vite` `Tailwind CSS` `Node.js` `Google Maps API` `Email Integration`
+
+---
+
+### 💪 #6 — Fitness Tracker App
+
+> **Cross-platform Flutter fitness tracking app with Firebase data persistence**
+
+| Feature | Details |
+|:--------|:--------|
+| 👟 **Activity tracking** | Steps, workouts, calories, and workout minutes logged daily |
+| ✏️ **Manual logging** | Log exercise type, duration, and calories burned manually |
+| 📊 **Progress dashboard** | Daily and weekly progress bars with visual indicators |
+| 🔥 **Calorie analytics** | Track calorie burn across different workout types |
+| ☁️ **Firebase storage** | Data stored and synced locally using Firebase |
+
+**Stack:** `Flutter` `Dart` `Firebase` `Provider`
 
 ---
 
