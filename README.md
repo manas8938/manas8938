@@ -46,10 +46,10 @@ const anas: Developer = {
     ],
 
     achievements: {
-        production_platform: "Saudi fintech platform — live in Jeddah",
-        load_test: "p95 < 13ms at 200 concurrent users",
-        api_endpoints: "100+",
-        uptime: "6+ days zero crashes on production"
+        production_platform: "Saudi fintech platform — live in Jeddah (me-jeddah-1)",
+        load_test: "p95 = 266ms at 200 concurrent users — zero crashes",
+        api_endpoints: "100+ documented via OpenAPI/Swagger",
+        uptime: "Production live — UptimeRobot monitored 24/7"
     },
 
     funFact: "I turn caffeine into production-ready code ☕→💻"
@@ -94,12 +94,13 @@ const anas: Developer = {
 
 | Category | Technologies |
 |:--------:|:-------------|
-| 🏢 **Architecture** | Multi-Tenant SaaS • Microservices • Clean Architecture |
-| 🔐 **Security** | JWT • Firebase OTP • RBAC • Bcrypt • Anti-spoofing |
-| 📡 **APIs** | RESTful Design • Swagger • Rate Limiting • Webhooks |
-| ⚡ **Performance** | Redis Lua Atomic Scripts • PM2 Cluster • p95 < 13ms |
-| ☁️ **Cloud** | Oracle Cloud (OCI) • Cloudflare Pages • Cloudinary |
+| 🏢 **Architecture** | Multi-Tenant SaaS • Clean Architecture • Strategy Pattern |
+| 🔐 **Security** | JWT • Firebase OTP • RBAC • Rate Limiting • Anti-spoofing |
+| 📡 **APIs** | RESTful Design • OpenAPI/Swagger • Webhooks • HMAC Verification |
+| ⚡ **Performance** | Redis Lua Atomic Scripts • PM2 Cluster • p95 = 266ms @ 200 VUs |
+| ☁️ **Cloud** | Oracle Cloud (OCI) Jeddah • Cloudflare CDN • Cloudinary |
 | 📱 **Mobile** | Flutter • Firebase OTP • RTL Arabic • GPS Geofencing |
+| 💳 **Fintech** | ZATCA Phase 1 e-invoicing • Moyasar • Payment Webhooks |
 
 </div>
 
@@ -107,26 +108,32 @@ const anas: Developer = {
 
 ## 🚀 Featured Projects
 
-### 🏆 MIKNAZ — Saudi Fintech Voucher Race Platform
+### 🏆 #1 — MIKNAZ — Saudi Fintech Voucher Race Platform
 
-> **Production-live geofenced voucher platform for the Saudi Arabian market**
+> **Production-live geofenced voucher platform for the Saudi Arabian market — built solo end-to-end**
 
 | Feature | Details |
 |:--------|:--------|
 | 🗺️ **Geofenced voucher racing** | Users race to claim vouchers within GPS radius — first click wins |
-| ⚡ **Redis atomic locking** | Zero double-claims using Lua scripts + SELECT FOR UPDATE pessimistic locking |
-| 📱 **Flutter mobile app** | iOS + Android, Firebase OTP auth, full RTL Arabic/English support |
+| ⚡ **Redis atomic locking** | Zero double-claims using Lua scripts + PostgreSQL SELECT FOR UPDATE |
+| 📱 **Flutter mobile app** | iOS + Android, Firebase OTP, full RTL Arabic/English, 27 error states |
 | 🏪 **Vendor dashboard** | React/Vite — onboarding, voucher creation, branch management, analytics |
-| 🔐 **ZATCA compliance** | Saudi tax authority Phase 1 simplified e-invoicing |
-| ☁️ **OCI Jeddah** | E5.Flex VM, PM2 cluster mode, Nginx SSL, Cloudflare CDN |
-| 📊 **Load tested** | p95 = 12.77ms at 200 concurrent users — zero server crashes |
+| 🛡️ **Admin panel** | React/Vite — vendor governance, KYC review, audit logs, invitation codes |
+| 💳 **Payment scaffold** | Moyasar/Tap strategy pattern — ZATCA Phase 1 e-invoicing (Saudi tax authority) |
+| ☁️ **OCI Jeddah** | E5.Flex 2 OCPU 16GB, PM2 cluster, Nginx SSL, Cloudflare CDN, daily backups |
+| 📊 **Load tested** | p95 = 266ms at 200 concurrent users — 51 req/s — zero server crashes |
+| 🔐 **Security hardened** | User-level rate limiting, password complexity, input sanitization, CORS |
 | 👥 **RBAC** | END_USER / VENDOR_OWNER / VENDOR_STAFF / ADMIN roles |
+| 📧 **Email service** | Resend — vendor approval emails, password reset flow |
+| 📋 **Full documentation** | 4,911-line OpenAPI spec, handover runbook, load test report |
 
-**Stack:** `Flutter` `NestJS` `PostgreSQL` `Redis` `React` `TypeScript` `Oracle Cloud` `Cloudflare` `Firebase`
+**Stack:** `Flutter` `NestJS` `PostgreSQL` `Redis` `React` `TypeScript` `Oracle Cloud` `Cloudflare` `Firebase` `Resend` `Cloudinary` `k6`
+
+**Scope:** $3,200 USD — 5 milestones — Saudi Arabia market — production live in Jeddah
 
 ---
 
-### 🏗️ Multi-Tenant SaaS Platform
+### 🏗️ #2 — Multi-Tenant SaaS Platform
 
 > **Enterprise-grade multi-tenant backend architecture**
 
@@ -144,7 +151,7 @@ const anas: Developer = {
 
 ---
 
-### 🛒 Calvio Mart — E-Commerce Platform
+### 🛒 #3 — Calvio Mart — E-Commerce Platform
 
 > **Full-featured e-commerce solution serving 1,000+ daily users**
 
@@ -158,21 +165,21 @@ const anas: Developer = {
 
 ---
 
-### 🚗 Movr App — Cross-Platform Mobile App
+### 🚗 #4 — Movr App — Cross-Platform Mobile App
 
-> **Clean architecture mobile application**
+> **Clean architecture mobile application with real-time location tracking**
 
 | Features | Tech Stack |
 |:---------|:-----------|
-| 📱 Cross-platform Flutter app with Provider | Flutter + Provider |
+| 📱 Cross-platform Flutter app with Provider state management | Flutter + Provider |
 | 🗄️ Normalized MySQL database with optimized queries | NestJS |
 | 🔐 Secure RESTful APIs with JWT validation | MySQL + TypeORM |
-| 📍 Real-time location tracking | Docker + Firebase |
+| 📍 Real-time location tracking and destination-based flow | Docker + Firebase |
 | 📚 Complete Swagger documentation | JWT + Swagger |
 
 ---
 
-### 🍜 Kim Long Restaurant Website
+### 🍜 #5 — Kim Long Restaurant Website
 
 > **Full-stack restaurant management system**
 
@@ -239,7 +246,7 @@ const anas: Developer = {
 | ☁️ **Cloud Infrastructure** | Oracle Cloud, Cloudflare Workers, CDN Optimization |
 | 🏗️ **System Design** | Scalability Patterns, Load Balancing, Caching Strategies |
 | 💳 **Fintech** | Payment Systems, ZATCA Compliance, KYC Flows |
-| ⚡ **Performance** | Redis Lua Scripts, Query Optimization, Load Testing |
+| ⚡ **Performance** | Redis Lua Scripts, Query Optimization, Load Testing with k6 |
 
 </div>
 
