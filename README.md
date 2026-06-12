@@ -131,7 +131,29 @@ const anas: Developer = {
 
 ---
 
-### 🏗️ #2 — Multi-Tenant SaaS Platform
+### 📅 #2 — BM.com — Multi-Tenant Booking SaaS
+
+> **Production-deployed booking & scheduling platform for service businesses — built solo end-to-end**
+
+| Feature | Details |
+|:--------|:--------|
+| 🏢 **Multi-tenant architecture** | Postgres Row-Level Security — complete per-business data isolation enforced at the DB layer |
+| ⚡ **Real-time slot locking** | Unique DB constraint + Supabase Realtime — instant double-booking prevention across all clients |
+| 💳 **Stripe subscriptions** | Free/Pro tiers with webhook-driven status sync (checkout.session.completed, subscription.deleted) |
+| 💰 **Deposit payments** | Optional per-service deposits via Stripe Checkout, idempotent confirmation via session ID |
+| 🔓 **No-login cancellation** | Secure token-based booking cancellation flow |
+| 📧 **Transactional email** | Resend — booking confirmations + automated staff onboarding emails |
+| 🎨 **Custom design system** | "Ink & Ember" theme with full dark mode across dashboard + public booking flow |
+| 📊 **Owner dashboard** | Branches, staff, services, availability, bookings, billing — full CRUD |
+| 🌐 **Public booking pages** | Per-business slugs with a multi-step service → staff → date → slot booking widget |
+
+**Stack:** `Next.js 14` `Supabase` `PostgreSQL` `Stripe` `Tailwind CSS` `TypeScript` `Resend` `Vercel`
+
+🔗 [Live Demo](https://bm-saas-anas.vercel.app)
+
+---
+
+### 🏗️ #3 — Multi-Tenant SaaS Platform
 
 > **Enterprise-grade multi-tenant backend architecture**
 
@@ -149,7 +171,7 @@ const anas: Developer = {
 
 ---
 
-### 🛒 #3 — Calvio Mart — E-Commerce Platform
+### 🛒 #4 — Calvio Mart — E-Commerce Platform
 
 > **Full-featured e-commerce solution serving 1,000+ daily users**
 
@@ -165,7 +187,7 @@ const anas: Developer = {
 
 ---
 
-### 🚗 #4 — Movr App — Cross-Platform Mobile App
+### 🚗 #5 — Movr App — Cross-Platform Mobile App
 
 > **Clean architecture mobile application with real-time location tracking**
 
@@ -181,7 +203,7 @@ const anas: Developer = {
 
 ---
 
-### 🍜 #5 — Kim Long Restaurant Website
+### 🍜 #6 — Kim Long Restaurant Website
 
 > **Full-stack restaurant management system with Google Maps integration**
 
@@ -197,7 +219,7 @@ const anas: Developer = {
 
 ---
 
-### 💪 #6 — Fitness Tracker App
+### 💪 #7 — Fitness Tracker App
 
 > **Cross-platform Flutter fitness tracking app with Firebase data persistence**
 
